@@ -1,0 +1,5 @@
+{
+    "token": "ODY4NDEwMjY5NTMyMDM3MTIx.GR2qc5.KM9BLuneqcp8HFg-8BB5n4psR_ErjEKOfo8ffY",
+    "prefix": "!",
+    "mongooseConnectionString": "mongodb+srv://wsam:wsam2214@cluster0.xixum.mongodb.net/?retryWrites=true&w=majority"
+}
